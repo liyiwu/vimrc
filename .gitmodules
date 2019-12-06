@@ -1,0 +1,63 @@
+[submodule "pack/colors/start/solarized"]
+	path = pack/colors/start/solarized
+	url = https://github.com/altercation/vim-colors-solarized.git
+[submodule "pack/colors/start/monokai"]
+	path = pack/colors/start/monokai
+	url = https://github.com/sickill/vim-monokai.git
+[submodule "pack/base/start/lightline"]
+	path = pack/base/start/lightline
+	url = https://github.com/itchyny/lightline.vim
+[submodule "pack/filetypes/start/gitgutter"]
+	path = pack/filetypes/start/gitgutter
+	url = https://github.com/airblade/vim-gitgutter.git
+[submodule "pack/base/start/rainbow"]
+	path = pack/base/start/rainbow
+	url = https://github.com/frazrepo/vim-rainbow.git
+[submodule "pack/base/start/autopairs"]
+	path = pack/base/start/autopairs
+	url = https://github.com/jiangmiao/auto-pairs.git
+[submodule "pack/base/start/ack"]
+	path = pack/base/start/ack
+	url = https://github.com/mileszs/ack.vim.git
+[submodule "pack/filetypes/start/ale"]
+	path = pack/filetypes/start/ale
+	url = https://github.com/dense-analysis/ale.git
+[submodule "pack/filetypes/start/nginx"]
+	path = pack/filetypes/start/nginx
+	url = https://github.com/chr4/nginx.vim.git
+[submodule "pack/filetypes/start/rust"]
+	path = pack/filetypes/start/rust
+	url = https://github.com/rust-lang/rust.vim
+[submodule "pack/filetypes/start/vim-go"]
+	path = pack/filetypes/start/vim-go
+	url = https://github.com/fatih/vim-go.git
+[submodule "pack/filetypes/start/vim-javascript"]
+	path = pack/filetypes/start/vim-javascript
+	url = https://github.com/pangloss/vim-javascript.git
+[submodule "pack/filetypes/start/typescript-vim"]
+	path = pack/filetypes/start/typescript-vim
+	url = https://github.com/leafgarland/typescript-vim.git
+[submodule "pack/filetypes/start/lightline-ale"]
+	path = pack/filetypes/start/lightline-ale
+	url = https://github.com/maximbaz/lightline-ale.git
+[submodule "pack/filetypes/start/vim-markdown"]
+	path = pack/filetypes/start/vim-markdown
+	url = https://github.com/plasticboy/vim-markdown.git
+[submodule "pack/base/start/nerdtree"]
+	path = pack/base/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "pack/base/start/multiple-cursors"]
+	path = pack/base/start/multiple-cursors
+	url = https://github.com/terryma/vim-multiple-cursors.git
+[submodule "pack/base/start/mru"]
+	path = pack/base/start/mru
+	url = https://github.com/yegappan/mru.git
+[submodule "pack/base/start/vim-repeat"]
+	path = pack/base/start/vim-repeat
+	url = https://github.com/tpope/vim-repeat.git
+[submodule "pack/base/start/vim-surround"]
+	path = pack/base/start/vim-surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "pack/filetypes/start/vim-flake8"]
+	path = pack/filetypes/start/vim-flake8
+	url = https://github.com/nvie/vim-flake8
