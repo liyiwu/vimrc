@@ -61,3 +61,6 @@
 [submodule "pack/filetypes/start/vim-flake8"]
 	path = pack/filetypes/start/vim-flake8
 	url = https://github.com/nvie/vim-flake8
+[submodule "pack/filetypes/start/nerdcommenter"]
+	path = pack/filetypes/start/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter.git
