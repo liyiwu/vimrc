@@ -1,1 +1,1 @@
-git clone https://github.com/liyiwu/vimrc.git ~/.vim 
+git clone --recurse-submodules https://github.com/liyiwu/vimrc.git ~/.vim 
