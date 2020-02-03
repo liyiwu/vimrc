@@ -1,6 +1,6 @@
 # temp
-/temp/*
-!/temp/undo
-!/temp/swap
-/temp/undo/*
-/temp/swap/*
+#/temp
+#!/temp/undo
+#!/temp/swap
+temp/undo/*
+temp/swap/*
